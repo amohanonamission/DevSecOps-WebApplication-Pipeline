@@ -2,6 +2,8 @@
 
 This directory contains Kubernetes manifests for deploying the Tic Tac Toe application.
 
+![Architecture Diagram](docs/architecture-diagram.png)
+
 ## Components
 
 1. **Deployment** - Manages the application pods with scaling and update strategies
