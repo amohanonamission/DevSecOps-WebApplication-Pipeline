@@ -1,6 +1,6 @@
-# Kubernetes Deployment for Tic Tac Toe
+# DevSecOps: Kubernetes Deployment for Game Application
 
-This directory contains Kubernetes manifests for deploying the Tic Tac Toe application.
+This directory contains Kubernetes manifests for deploying a Tic Tac Toe application.
 
 ![Architecture Diagram](docs/architecture-diagram.png)
 
